@@ -1,0 +1,1 @@
+In this project, a mobile phone application example was tried with the help of web application manifest using firebase and classic html css and vanilla js. GetDatabase, initializeapp, reference, push, onvalue, remove, snaphot functions were used in Firebase.
